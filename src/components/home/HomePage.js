@@ -1,8 +1,8 @@
 import React from "react";
-import Faqs from "@/components/Home/Faqs";
-import HomeHero from "@/components/Home/HomeHero";
-import HomeInfo from "@/components/Home/HomeInfo";
-import HowItWorks from "@/components/Home/HowItWorks";
+import Faqs from "@/components/home/Faqs";
+import HomeHero from "@/components/home/HomeHero";
+import HomeInfo from "@/components/home/HomeInfo";
+import HowItWorks from "@/components/home/HowItWorks";
 
 function HomePage() {
   return (
